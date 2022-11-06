@@ -9,3 +9,4 @@ My motivation in completing this project was to have a portfolio to showcase my 
 ![portfolio screenshot](./src/images/screenshot.jpg)
 
 ## Deployed Link
+https://srandall1213.github.io/React-Portfolio/
