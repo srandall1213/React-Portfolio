@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/reactportfolio/static/css/main.27c1cbf8.css",
-    "main.js": "/reactportfolio/static/js/main.bc55ab51.js",
-    "static/media/ShowFinder.png": "/reactportfolio/static/media/ShowFinder.23796304ed55c512f660.png",
-    "static/media/me.png": "/reactportfolio/static/media/me.931a4ce0424f3707ba16.png",
-    "static/media/WeatherDashboardSS.png": "/reactportfolio/static/media/WeatherDashboardSS.7b8b1289b48171cf35c1.png",
-    "static/media/workdaysched.png": "/reactportfolio/static/media/workdaysched.78ad2b6b3383a26736c3.png",
-    "static/media/techblog.png": "/reactportfolio/static/media/techblog.f04b702248df55fc8b7f.png",
-    "static/media/gitsurveys.png": "/reactportfolio/static/media/gitsurveys.30631cea27b08b75fefc.png",
-    "static/media/emptracker.png": "/reactportfolio/static/media/emptracker.e98313335f0e7014ead0.png",
-    "static/media/NEON.TTF": "/reactportfolio/static/media/NEON.b0f581c427424c101e20.TTF",
-    "static/media/pinkemail.png": "/reactportfolio/static/media/pinkemail.589ec95fc5d4da3585ee.png",
-    "index.html": "/reactportfolio/index.html",
-    "main.27c1cbf8.css.map": "/reactportfolio/static/css/main.27c1cbf8.css.map",
-    "main.bc55ab51.js.map": "/reactportfolio/static/js/main.bc55ab51.js.map"
+    "main.css": "/React-Portfolio/static/css/main.0b23e8fe.css",
+    "main.js": "/React-Portfolio/static/js/main.73d578e9.js",
+    "static/media/ShowFinder.png": "/React-Portfolio/static/media/ShowFinder.23796304ed55c512f660.png",
+    "static/media/me.png": "/React-Portfolio/static/media/me.931a4ce0424f3707ba16.png",
+    "static/media/WeatherDashboardSS.png": "/React-Portfolio/static/media/WeatherDashboardSS.7b8b1289b48171cf35c1.png",
+    "static/media/workdaysched.png": "/React-Portfolio/static/media/workdaysched.78ad2b6b3383a26736c3.png",
+    "static/media/techblog.png": "/React-Portfolio/static/media/techblog.f04b702248df55fc8b7f.png",
+    "static/media/gitsurveys.png": "/React-Portfolio/static/media/gitsurveys.30631cea27b08b75fefc.png",
+    "static/media/emptracker.png": "/React-Portfolio/static/media/emptracker.e98313335f0e7014ead0.png",
+    "static/media/NEON.TTF": "/React-Portfolio/static/media/NEON.b0f581c427424c101e20.TTF",
+    "static/media/pinkemail.png": "/React-Portfolio/static/media/pinkemail.589ec95fc5d4da3585ee.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.0b23e8fe.css.map": "/React-Portfolio/static/css/main.0b23e8fe.css.map",
+    "main.73d578e9.js.map": "/React-Portfolio/static/js/main.73d578e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.27c1cbf8.css",
-    "static/js/main.bc55ab51.js"
+    "static/css/main.0b23e8fe.css",
+    "static/js/main.73d578e9.js"
   ]
 }
