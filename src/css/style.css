@@ -1,0 +1,71 @@
+:root {
+    --mainColor: black;
+    --accentColor: rgb(255, 0, 128);
+}
+
+/* font import */
+@font-face {
+    font-family: "Neon";
+    src: url("../fonts/NEON.TTF") format("woff2");
+}
+
+.title {
+    font-family: "Neon";
+    background: linear-gradient(rgb(252, 160, 189), var(--accentColor));
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    padding: 30px;
+}
+
+.custom-nav {
+    background: var(--accentColor);
+    margin-top: -8px;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+}
+
+.icon:hover {
+    animation: tada;
+    animation-duration: 1s;
+}
+
+.smallerIcon {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.smallerIcon:hover {
+    animation: tada;
+    animation-duration: 1s;
+}
+
+.nav-item a {
+    color: var(--mainColor);
+}
+
+.nav-item a:hover {
+    color: black;
+    font-weight: 600;
+    
+}
+
+.active {
+    box-shadow: 0 0 5px var(--mainColor);
+    animation: bounceInLeft;
+    animation-duration: 1s;
+}
+
+.btn:hover {
+    animation: tada;
+    animation-duration: 1s;
+}
+
+.downloadIcon {
+    width: 4vh;
+    padding-left: 5px;
+    margin-bottom: 4px;
+}

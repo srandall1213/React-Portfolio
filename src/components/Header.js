@@ -1,10 +1,17 @@
 import React from 'react';
+import '../css/style.css';
+import 'animate.css';
 
 function Header({ currentPage, handlePageChange }) {
   return (
     <>
-      <h1 className="text-center my-4">Sarah Randall</h1>
-      <ul className="nav d-flex justify-content-around border">
+    <div className="jumbotron jumbotron-fluid bg-dark text-center">
+        <div className="container">
+          <h1 className="display-4 title">Sarah Randall</h1>
+        </div>
+    </div>
+    <div>
+      <ul className="nav d-flex justify-content-around custom-nav">
         <li className="nav-item">
           <a
             href="#about"
@@ -42,6 +49,7 @@ function Header({ currentPage, handlePageChange }) {
           </a>
         </li>
       </ul>
+    </div>
     </>
   );
 }

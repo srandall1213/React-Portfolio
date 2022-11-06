@@ -1,9 +1,21 @@
 import React from 'react';
+import downloadIcon from "../../images/pinkdownload.png"
+import '../../css/style.css';
+import 'animate.css';
 
 export default function Resume() {
   return (
     <>
-      <a className="text-center m-3" href="https://drive.google.com/file/d/1J-sOHDNZLLyYDfFrdcOFpfYaS60dYcve/view?usp=share_link" target="_blank"><h1>Click to Download Resume</h1></a>
+      <div className="text-center mt-4">
+
+        <a 
+        href="https://drive.google.com/file/d/1J-sOHDNZLLyYDfFrdcOFpfYaS60dYcve/view?usp=share_link" target="_blank">
+          <button type="button" className="btn btn-outline-dark btn-lg">Resume
+            <img src= {downloadIcon} className="downloadIcon d-inline" alt="download icon"/>
+          </button>
+        </a>
+       
+      </div>
 
       <div className="m-4">
         <h4>Proficiencies (A-Z):</h4>
