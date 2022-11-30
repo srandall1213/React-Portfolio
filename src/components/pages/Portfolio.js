@@ -5,6 +5,7 @@ import emptracker from '../../images/emptracker.png'
 import showfinder from '../../images/ShowFinder.png'
 import weatherdash from '../../images/WeatherDashboardSS.png'
 import workday from '../../images/workdaysched.png'
+import prepstartsnow from "../../images/prepstartsnow.jpg"
 
 export default function Project() {
   return (
@@ -12,6 +13,19 @@ export default function Project() {
     <div className="container mt-4">
       <div className="row">
         <div className="col-12 col-md-12 col-lg-4">
+
+        <div className="card border-dark m-3">
+            <img src={prepstartsnow} className="card-img-top border border-bottom" alt="Prep Starts Now"/>
+            <div className="card-body">
+              <h5 className="card-title">Prep Starts Now</h5>
+              <p className="card-text">Team Project 3</p>
+              <p className="card-text"></p>
+              <p className="card-text"></p>
+              <a href="www.prepstartsnow.com" target="_blank">Deployed</a>
+              <span> | </span>
+              <a href="https://github.com/benbushman98/Prep-Start-Now" target="_blank">Repo</a>
+            </div>
+          </div>
 
           <div className="card border-dark m-3">
             <img src={gitsurveys} className="card-img-top border border-bottom" alt="Git Surveys"/>
